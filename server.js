@@ -12,7 +12,6 @@ const db = configureMongoose();
 const app = configureExpress();
 
 
-
 // Use the Express application instance to listen to the '3000' port
 app.listen(3000);
 

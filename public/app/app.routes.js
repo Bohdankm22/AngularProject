@@ -14,7 +14,7 @@ System.register(["./app.component"], function (exports_1, context_1) {
                 {
                     path: '',
                     component: app_component_1.AppComponent,
-                    data: { title: 'Angular Test Example' }
+                    data: {title: 'Angular Test Example'}
                 },
             ]);
         }
